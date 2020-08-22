@@ -1,8 +1,10 @@
 # Exercism
 
-## Install
+## Installation
 
-### Osx
+Clone the repository to `git clone git@github.com:helderburato/exercism.git ~/Exercism`
+
+### How to install in MacOS
 
 Install via Homebrew:
 

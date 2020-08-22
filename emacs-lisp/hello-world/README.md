@@ -19,3 +19,7 @@ This is an exercise to introduce users to using Exercism [http://en.wikipedia.or
 
 ## Submitting Incomplete Solutions
 It's possible to submit an incomplete solution so you can see how others have completed the exercise.
+
+## Solution
+
+[My solution for exercise](https://exercism.io/tracks/emacs-lisp/exercises/hello-world/solutions/bea721f917224bdd855e6b1cf8308ece)

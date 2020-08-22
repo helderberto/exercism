@@ -17,3 +17,7 @@ If no name is given, the result should be "One for you, one for me."
 
 ## Submitting Incomplete Solutions
 It's possible to submit an incomplete solution so you can see how others have completed the exercise.
+
+## Solution
+
+[My solution for exercise](https://exercism.io/tracks/emacs-lisp/exercises/two-fer/solutions/21737850bdc145bc8addc9884041ba88)
